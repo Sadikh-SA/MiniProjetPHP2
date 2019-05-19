@@ -1,0 +1,5 @@
+200896|GUEYE|Ababacar Sadikh|1996-08-20|DAKAR|784408822|Abougueye96@yahoo.fr|Présentiel|Cohorte 2
+38132|NGOM|Abdoulaye|1992-04-05|Dakar|776418887|ngomabdoulaye@gmail.com|Présentiel|Cohorte 2
+18065|GNING|Saliou|1996-09-07|Dakar|771245698|saliou.gning@gmail.com|OnLine|Cohorte 1
+38132|MBAYE|Demba|1994-08-05|Dakar|776831887|mbayeabdoulaye@gmail.com|OnLine|Cohorte 2
+481277|NGOM|Mariama Jolie|1995-05-25|Thies|772918604|ngommariama@gmail.com|Présentiel|Cohorte 2
